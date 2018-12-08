@@ -1,4 +1,4 @@
-piWallet
+NBRWallet 
 ========
 
 piWallet is a popular secure opensource online altcoin wallet that works with practically any altcoin. piWallet uses PHP, mySQL, JavaScript and Bootstrap meaning it's quite simple to setup. 
